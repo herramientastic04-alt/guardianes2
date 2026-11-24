@@ -1,0 +1,10 @@
+{
+  "name": "guardianes-separacion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recurso digital gamificado para la separación de residuos sólidos. Institución Educativa Casas Bajas.",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "8.2.0"
+  }
+}
